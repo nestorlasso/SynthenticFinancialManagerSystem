@@ -1,0 +1,9 @@
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem.Datos\bin\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.Data.deps.json
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem.Datos\bin\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.Data.dll
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem.Datos\bin\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.Data.pdb
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem.Datos\obj\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.Data.csprojResolveAssemblyReference.cache
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem.Datos\obj\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.Data.csproj.CoreCompileInputs.cache
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem.Datos\obj\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.Data.AssemblyInfoInputs.cache
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem.Datos\obj\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.Data.AssemblyInfo.cs
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem.Datos\obj\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.Data.dll
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem.Datos\obj\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.Data.pdb

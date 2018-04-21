@@ -1,0 +1,17 @@
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem.WebService\bin\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.WebService.deps.json
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem.WebService\bin\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.WebService.runtimeconfig.json
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem.WebService\bin\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.WebService.runtimeconfig.dev.json
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem.WebService\bin\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.WebService.dll
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem.WebService\bin\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.WebService.pdb
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem.WebService\bin\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.Core.dll
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem.WebService\bin\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.Data.dll
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem.WebService\bin\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.Services.dll
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem.WebService\bin\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.Core.pdb
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem.WebService\bin\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.Data.pdb
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem.WebService\bin\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.Services.pdb
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem.WebService\obj\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.WebService.csprojResolveAssemblyReference.cache
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem.WebService\obj\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.WebService.csproj.CoreCompileInputs.cache
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem.WebService\obj\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.WebService.AssemblyInfoInputs.cache
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem.WebService\obj\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.WebService.AssemblyInfo.cs
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem.WebService\obj\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.WebService.dll
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem.WebService\obj\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.WebService.pdb

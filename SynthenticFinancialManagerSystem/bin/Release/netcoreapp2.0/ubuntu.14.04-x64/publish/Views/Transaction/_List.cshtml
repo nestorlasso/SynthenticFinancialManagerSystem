@@ -1,0 +1,72 @@
+﻿@using SynthenticFinancialManagerSystem.Core.Entities;
+
+@inject SynthenticFinancialManagerSystem.Services.Business.RoleService roleService;
+@model IEnumerable<ETransaction>
+
+
+@{
+    if (TempData["ModuleAccessList"] != null)
+    {
+        TempData.Remove("ModuleAccessList");
+    }
+
+    List<string> moduleAccessList = roleService.GetActionsByUser(Context.User.Identity.Name).Select(x => x.ActionName).ToList<string>();
+    TempData.Add("ModuleAccessList", moduleAccessList);
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdTransaction)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Type)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Amount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NameOrig)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NameDest)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsFraud)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TransactionDate)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdTransaction)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Type)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Amount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NameOrig)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NameDest)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsFraud)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TransactionDate)
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
+

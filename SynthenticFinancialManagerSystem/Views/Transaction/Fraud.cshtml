@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewData["Title"] = "Fraud";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Fraud</h2>
+
+<form asp-action="Mark">
+    <div class="form-horizontal">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group">
+            <label class="col-md-2 control-label">Id Transaction</label>
+            <div class="col-md-10">
+                <input id="step" name="step" value="" class="form-control" />
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Mark" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+</form>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+

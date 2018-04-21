@@ -1,0 +1,40 @@
+﻿@using SynthenticFinancialManagerSystem.Core.Entities;
+
+@inject SynthenticFinancialManagerSystem.Services.Business.RoleService roleService
+@model ETransactionSearch
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    if (TempData["ModuleAccessList"] != null)
+    {
+        TempData.Remove("ModuleAccessList");
+    }
+
+    List<string> moduleAccessList = roleService.GetActionsByUser(Context.User.Identity.Name).Select(x => x.ActionName).ToList<string>();
+    TempData.Add("ModuleAccessList", moduleAccessList);
+}
+
+<h2>Transactions</h2>
+
+<p>
+    @if (moduleAccessList.Exists(x => x == "Register"))
+    {
+        <a asp-action="Create" asp-controller="Transaction">Create New</a>
+    }
+    <br />
+    <br />
+    @if (moduleAccessList.Exists(x => x == "Mark"))
+    {
+        <a asp-action="Fraud" asp-controller="Transaction">Mark Transaction as a Fraud</a>
+    }
+</p>
+
+@if (moduleAccessList.Exists(x => x == "Search"))
+{
+    @await Html.PartialAsync("_Search", Model.Search)
+
+    @await Html.PartialAsync("_List", Model.Transactions)
+}
+

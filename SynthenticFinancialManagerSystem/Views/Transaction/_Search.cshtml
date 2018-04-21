@@ -1,0 +1,13 @@
+﻿@using SynthenticFinancialManagerSystem.Core.Entities;
+
+@model ESearch
+
+<form asp-controller="Transaction" asp-action="Search" >
+    <p>
+        IsFraud: <input asp-for="IsFraud" type="checkbox"><br />
+        NameDest: <input asp-for="NameDest" type="text"><br />
+        TransactionDate: <input type="date" asp-for="TransactionDate" ><br />
+        <input type="submit" value="Filter" />
+    </p>
+</form>
+

@@ -1,0 +1,12 @@
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem\bin\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.deps.json
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem\bin\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.runtimeconfig.json
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem\bin\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.runtimeconfig.dev.json
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem\bin\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.dll
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem\bin\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.pdb
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem\obj\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.csprojResolveAssemblyReference.cache
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem\obj\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.csproj.CoreCompileInputs.cache
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem\obj\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.AssemblyInfoInputs.cache
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem\obj\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.AssemblyInfo.cs
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem\obj\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.dll
+D:\Nestor Lasso\Sitios Web de Pruebas\Entrevista\SynthenticFinancialManagerSystem\SynthenticFinancialManagerSystem\obj\Debug\netcoreapp2.0\SynthenticFinancialManagerSystem.pdb
